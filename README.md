@@ -1,3 +1,5 @@
+![fezzik hashdisk 624](https://github.com/BeeEvolved/fezzik/blob/main/images/fezzik.jpg)
+
 # Fezzik Hashdisk
 
 **Open Source Design**: Hashdisk is completely open source and available to anyone or any company interested in utilizing it to revolutionize the landscape of Bitcoin mining. Just as Bitcoin is open source, so too should be all hardware components that touch Bitcoin. By embracing open source principles, Hashdisk aims to foster collaboration, innovation, and accessibility within the Bitcoin mining community, driving forward progress and democratizing participation in the mining ecosystem.
