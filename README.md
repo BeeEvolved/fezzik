@@ -1,4 +1,9 @@
 # Fezzik Hashdisk
+
+**Open Source Design**: Hashdisk is completely open source and available to anyone or any company interested in utilizing it to revolutionize the landscape of Bitcoin mining. Just as Bitcoin is open source, so too should be all hardware components that touch Bitcoin. By embracing open source principles, Hashdisk aims to foster collaboration, innovation, and accessibility within the Bitcoin mining community, driving forward progress and democratizing participation in the mining ecosystem.
+
+**Pre-conception Phase**: The Hashdisk project is currently in the pre-conception phase, laying the groundwork for prototyping and development. During this stage, the project team is conducting research, gathering requirements, and exploring potential design options. The focus is on refining the concept and preparing for the next steps in the development process. Stay tuned for updates as the project progresses towards prototyping and realization.
+
 # Unleashing Efficiency: Introducing Hashdisk Systems for Next-Generation Bitcoin Mining
 
 In the ever-evolving landscape of Bitcoin mining, innovation is key to staying ahead of the curve. That's where hashdisk systems come in. Picture this: a cutting-edge solution that redefines the way we approach mining operations, offering a slew of benefits that elevate efficiency, versatility, and sustainability to new heights.
