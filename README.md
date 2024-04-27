@@ -2,6 +2,19 @@
 
 # Fezzik Hashdisk
 
+
+**Number of ASICs**: 624 ASIC chips BM1366
+
+**Dimensions**: Approximately 399.6 millimeters in size (1 foot 3.744 inches)
+
+**Estimated Hashrate for 1 Hashdisk**:
+   - Each ASIC chip 500 GH/s
+   - Total hashrate = 624 ASICs * 500 GH/s = 312 TH/s
+
+**Estimated Hashrate for 5 Hashdisks in Series**:
+   - Total hashrate = 1.56 PH/s
+
+
 **Open Source Design**: Hashdisk is completely open source and available to anyone or any company interested in utilizing it to revolutionize the landscape of Bitcoin mining. Just as Bitcoin is open source, so too should be all hardware components that touch Bitcoin. By embracing open source principles, Hashdisk aims to foster collaboration, innovation, and accessibility within the Bitcoin mining community, driving forward progress and democratizing participation in the mining ecosystem.
 
 **Pre-conception Phase**: The Hashdisk project is currently in the pre-conception phase, laying the groundwork for prototyping and development. During this stage, the project team is conducting research, gathering requirements, and exploring potential design options. The focus is on refining the concept and preparing for the next steps in the development process. Stay tuned for updates as the project progresses towards prototyping and realization.
