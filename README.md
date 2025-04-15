@@ -51,6 +51,3 @@ The rounded design of the hashdisk and its housing offers several advantages tha
 
 
 Overall, the rounded design of the hashdisk and its housing offers a compelling combination of efficiency, durability, and versatility, making it an ideal choice for a wide range of mining applications.
-## Support this project?
-
-It's always appreciated to receive support for purchasing PCB boards and prototype parts. If you'd like to contribute to this project and help accelerate the effort, you can do so via Bitcoin: 1P6gz8bggna5s93th9CxNommxcNivN2bPp or  GitHub Sponsorship
